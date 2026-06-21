@@ -9,7 +9,7 @@ st.set_page_config(page_title="Maize vs Weed Detection", layout="centered")
 
 # Config
 
-DEFAULT_MODEL_PATH = r"C:\Users\USER\Desktop\python\weedman.pt"  # relative path, works if shipped alongside the app
+DEFAULT_MODEL_PATH = "weedman.pt"  # relative path, works if shipped alongside the app
 
 # Class-specific box colors (BGR for OpenCV). Extend/edit as needed to match
 # your model's actual class names (run model.names to check).

@@ -18,13 +18,6 @@ st.set_page_config(
 # Config
 DEFAULT_MODEL_PATH = r"C:\Users\USER\Desktop\python\weedman.pt"
 
-<<<<<<< HEAD
-=======
-DEFAULT_MODEL_PATH = "weedmanbeta.pt"  # relative path, works if shipped alongside the app
-
-# Class-specific box colors (BGR for OpenCV). Extend/edit as needed to match
-# your model's actual class names (run model.names to check).
->>>>>>> c8827f8051b50dc5c97348f2dcf5e56a3fc1525f
 CLASS_COLORS = {
     "maize": (0, 200, 80),   # green
     "weed":  (220, 50, 50),  # red

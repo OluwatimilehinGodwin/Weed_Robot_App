@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Config
-DEFAULT_MODEL_PATH = r"C:\Users\USER\Desktop\python\weedman.pt"
+DEFAULT_MODEL_PATH = r"weedmanbeta.pt"
 
 CLASS_COLORS = {
     "maize": (0, 200, 80),   # green

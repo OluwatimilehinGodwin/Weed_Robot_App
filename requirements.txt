@@ -5,3 +5,5 @@ opencv-python-headless
 ultralytics
 torch
 torchvision
+av
+streamlit_webrtc
